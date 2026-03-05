@@ -1,0 +1,30 @@
+.nav_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+}
+ 
+.list {
+    display: flex;
+    padding: 0;
+    margin: 0 0 0 0rem;
+}
+ 
+.list_element {
+    list-style: none;
+    margin: 1rem 3rem 1rem 3rem;
+    color: black;
+}
+ 
+.list_element a{
+    color: currentColor;
+    font-weight: 500;
+    font-size: 1.3rem;
+    transition: color 0.225s ease-in-out;
+}
+ 
+.list_element a:hover {
+    color: red;
+}
