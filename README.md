@@ -19,6 +19,8 @@ Läuft auf `http://localhost:3000`
 
 ## Backend
 
+Das zugehörige Backend-Repository ist zu finden auf `https://github.com/Gmed28/BluewaveShopBackend`
+
 Das Frontend erwartet die Django REST API auf `http://localhost:8000/api/`.
 
 ### Endpoints
@@ -35,8 +37,6 @@ app/              → Seiten (App Router)
 components/       → Wiederverwendbare Komponenten
 lib/              → API-Funktionen, Typen, Mock-Daten
 ```
-
-## Team
 
 ## Team
 
