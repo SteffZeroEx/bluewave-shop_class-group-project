@@ -1,0 +1,31 @@
+.datenschutz-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+.datenschutz-container h1 {
+  margin-bottom: 1.5rem;
+}
+
+.datenschutz-container h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.3rem;
+  color: #333;
+}
+
+.datenschutz-container p {
+  margin: 0.3rem 0;
+}
+
+.datenschutz-container ul {
+  padding-left: 1.5rem;
+  margin: 0.5rem 0;
+}
+
+.datenschutz-container ul li {
+  margin-bottom: 0.3rem;
+}

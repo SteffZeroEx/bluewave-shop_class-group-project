@@ -1,0 +1,22 @@
+.impressum-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+.impressum-container h1 {
+  margin-bottom: 1.5rem;
+}
+
+.impressum-container h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.3rem;
+  color: #333;
+}
+
+.impressum-container p {
+  margin: 0.3rem 0;
+}
